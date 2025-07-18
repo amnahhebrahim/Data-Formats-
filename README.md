@@ -8,7 +8,7 @@ This repository is part of a mini Youtube video series that aims at look differe
 - Open-source datasets you can use today
 - How to convert between formats and load into Pandas
 ## **Structured Data Formats:**
-The python notebook covers the following **Data Formats Covered:**
+The "Data_formats_and_Libraries_Tutorial_1.ipynb" python notebook covers the following **Data Formats Covered:**
 - CSV (Comma Separated Values)
 - JSON (JavaScript Object Notation)
 - XML (eXtensible Markup Language)
