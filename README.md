@@ -1,4 +1,4 @@
-# Data-Formats-
+# Data formats and Libraries
 
 This repository is part of a mini Youtube video series that aims at look different data formats and tools you can use to handle, parse and perform data analysis with. 
 🛠 **What You'll Learn:**
