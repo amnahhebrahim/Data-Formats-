@@ -13,4 +13,10 @@ The "Data_formats_and_Libraries_Tutorial_1.ipynb" python notebook covers the fol
 - JSON (JavaScript Object Notation)
 - XML (eXtensible Markup Language)
 - Parquet (Columnar Storage)
+## **Text-based Data Formats:**
+The "Data_formats_and_Libraries__YAML.ipynb" python notebook covers YAML Data Formats.
+## **HDF5 Data Formats:**
+The "Data_formats_and_Libraries_HDF5.ipynb" python notebook covers the HDF5 Data Formats.
+
+  
 
